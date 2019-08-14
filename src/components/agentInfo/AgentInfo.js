@@ -28,6 +28,7 @@ class AgentInfo extends Component {
         const { name, nameAgent, email, phone } = this.props.agent;
         return (
             <form>
+                <div>stammm!!!</div>
                 <InfoUser>
                     <NameDiv> {name} <br /> {nameAgent}</NameDiv>
                     <ConnectAgentDiv> {email} <br /> {phone}</ConnectAgentDiv>
