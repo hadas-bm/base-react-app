@@ -29,6 +29,7 @@ class AgentInfo extends Component {
         return (
             <form>
                 <div>stammm!!!</div>
+                <div>stammm!!! 22</div>
                 <InfoUser>
                     <NameDiv> {name} <br /> {nameAgent}</NameDiv>
                     <ConnectAgentDiv> {email} <br /> {phone}</ConnectAgentDiv>
